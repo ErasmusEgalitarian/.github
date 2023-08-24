@@ -1,4 +1,4 @@
-# Educado Initiative 👋
+# The Educado Initiative 👋
 
 Welcome to the Educado Initiative! We're a group of people passionate about education and technology. Our goal is to create free and easy-to-use educational tools online.
 
