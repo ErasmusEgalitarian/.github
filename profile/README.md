@@ -1,36 +1,51 @@
 # The Educado Initiative 👋
 
-Welcome to the Educado Initiative! We're a group of people passionate about education and technology. Our goal is to create free and easy-to-use educational tools online.
+Welcome to the Educado Initiative! We're a group of students and educators spanning across continents, passionate about education, technology, and making a difference in society. Our goal is to create free and easy-to-use educational tools online, with a special focus on empowering vulnerable communities.
 
-## What We Do
+---
 
-We build online platforms that help students learn and teachers teach. Our tools cover various subjects and age groups, making learning fun and interactive.
+## Educado: Empowering Waste Pickers through Education
+
+Waste pickers have been the unsung heroes of recycling in many parts of the world, often working in challenging environments with limited access to education. With the closure of the second largest dumpsite in Brasília, their challenges came to the forefront.
+
+**Educado** is our pioneering mobile Android app crafted specifically for waste pickers and communities with low educational backgrounds. It aims to:
+- Deliver tailored educational content relevant to their needs.
+- Provide modules on finances, health, safety, machinery operations, and personal hygiene.
+- Offer flexibility of learning without the constraints of traditional classes.
+
+This project represents our dedication to SDG 4: Quality Education and our commitment to making education accessible to all. Through collaborations with universities such as Aalborg University and the University of Brasília (UnB), we're bridging the gap between technology and community needs.
+
+---
 
 ## Get Involved
 
-You don't have to be an expert to join us. Whether you're a developer, designer, teacher, or just excited about education, there's a place for you here.
+Your skills, passion, and enthusiasm can make a difference:
+- **Contribute**: Developers can enhance our tools, designers can beautify them, and educators can enrich the content.
+- **Projects**: Dive deep into our various platforms tailored for different learning needs.
 
-- **Contribute**: If you're a coder, you can improve our tools. Designers can make them look great, and teachers can help with content.
-
-- **Projects**: We've got platforms like MathMentor for math tutoring, LangLearn Pro for languages, and SciQuest for science exploration.
+---
 
 ## Join the Community
 
-Join our community to:
+Being a part of Educado means:
+- Connecting with a global network passionate about education and tech.
+- Acquiring new skills while working on projects that matter.
+- Making education accessible, especially to those who need it most.
 
-- Connect with others who care about education and tech.
-- Learn new skills while working on meaningful projects.
-- Make a difference by making learning accessible to all.
+---
 
 ## Contact Us
 
-Got questions or ideas? Reach us at:
-
+Got a spark, question, or idea?
 - **Email**: contact@educado.org
-- **Discord**: [Join our Discord server](https://discord.gg/educado) for a chat.
+- **Discord**: [Join our Discord server](https://discord.gg/educado) and be a part of the conversation.
+
+---
 
 ## Spread the Knowledge
 
-Our work is open source and available for everyone. Feel free to use, modify, and share it to help more learners and educators.
+All our work is open source, crafted with love and dedication. Utilize, modify, and share to amplify the impact.
 
-_Let's learn and grow together with Educado!_
+---
+
+_Let's reshape education and make a global impact with Educado!_
