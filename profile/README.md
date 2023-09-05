@@ -45,8 +45,8 @@ By joining Educado, you:
 
 Got an idea or a query?
 - **Email**: contact@educado.org
-- **Discord**: [Join our Discord server](https://discord.gg/educado) and dive into the conversation.
-
+- **Discord**: [Join our Discord server](https://discord.gg/NGZvB5maUA) and dive into the conversation.
+- 
 ---
 
 ## Spread the Knowledge
