@@ -44,7 +44,7 @@ By joining Educado, you:
 ## Contact Us
 
 Got an idea or a query?
-- **Email**: contact@educado.org
+- **Email**: app.educado@gmail.com
 - **Discord**: [Join our Discord server](https://discord.gg/NGZvB5maUA) and dive into the conversation.
 
 ---
