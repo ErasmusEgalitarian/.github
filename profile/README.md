@@ -1,58 +1,40 @@
-# The Educado Initiative 👋
+# The Egalitarian Erasmus Initiative 🌍  
 
-Welcome to the Educado Initiative! We're a collaborative group spanning continents, composed of students, educators, and tech enthusiasts. Our goal is to create free and easy-to-use educational tools online, targeting various communities and age groups. Our recent focus is on empowering the often overlooked waste picker communities.
+Welcome to the **Egalitarian Erasmus Initiative**! We are a collaborative effort within the **Egalitarian SDG Challenge**, part of the **Erasmus+ Programme**, bringing together students from:  
+- **University of Brasília (Brazil)**  
+- **Aalborg University (Denmark)**  
+- **University of Minho (Portugal)**  
+- **Saxion University (Netherlands)**  
 
----
+Our mission is to develop **engineering and technological solutions** that drive sustainability, particularly in waste management. **We believe young people must be the protagonists for a sustainable future.**  
 
-## Educado: Empowering Waste Pickers through Education
+---  
 
-Waste pickers, the unsung heroes of recycling, often work in challenging environments with limited access to education. With the closure of the second largest dumpsite in the world in Brasília, their challenges intensified.
+## 🌱 Our Projects  
 
-**Educado** is our flagship mobile Android app designed specifically for waste pickers and those with low educational backgrounds. It offers:
-- Tailored educational content relevant to their day-to-day lives.
-- Modules on finances, health and safety, machinery operations, personal hygiene, and more.
-- Flexible learning options without the need for traditional classrooms.
+### **Educado: Empowering Waste Pickers through Education**  
+An Android mobile app designed for waste pickers, offering tailored educational content on finances, health, machinery operations, hygiene, and more. Aiming to enhance learning opportunities and align with **SDG 4: Quality Education**.  
 
-This initiative aligns with the Sustainable Development Goals, particularly SDG 4: Quality Education. By collaborating with Aalborg University for tech development and the University of Brasília (UnB) for design and content, we are crafting solutions tailored to real-world needs.
+### **Carbon: Reducing the Carbon Footprint**  
+A platform to **register waste for pickup and processing**, reducing **organic waste decomposition** and **methane emissions** while promoting **cleaner streets**. Developed for implementation in Brasília.  
 
----
+### **DMS: Digital Management System for Waste Cooperatives**  
+DMS is a system that connects digital scales to cooperatives, automatically recording the weight of **recyclables**, the earnings of waste pickers, and a **scoring system** that incentivizes recycling while strengthening **trust** between cooperatives and waste pickers while encouraging **recycling efforts**.  
 
-## Get Involved
+---  
 
-Your skills and passion can contribute to our mission:
-- **Contribute**: Developers can optimize our tools, designers can amplify the user experience, and educators can provide invaluable content.
-- **Projects**: Engage in our diverse projects, each with its own impact and audience.
+## 🤝 Get Involved  
 
----
+Your expertise is valuable! Join us as a **developer, designer, educator, or sustainability advocate** to contribute to these impactful projects.  
 
-## Join the Community
+**Connect with us:**  
+- **Email:** app.educado@gmail.com  
+- **Discord:** [Join our Discord](https://discord.gg/NGZvB5maUA)  
 
-By joining Educado, you:
-- Connect with a global community passionate about education and technology.
-- Acquire new skills and insights while working on transformative projects.
-- Help make education accessible and relevant to diverse communities.
-
----
-
-## Core Values and Collaboration
-
-- **Sustainable Development Goals**: Our initiatives resonate with multiple SDGs, emphasizing quality education, health, and sustainable communities.
-- **Cross University Collaboration**: Our partnership with Aalborg University and the University of Brasília (UnB) bridges technological prowess with ground-level insights, ensuring solutions that truly make a difference.
+**All our projects are open-source!** Modify, use, and share them to expand their impact globally.  
 
 ---
 
-## Contact Us
+_Engineering and innovation to improve how we deal with waste. Powered by students. Funded by the EU ERASMUS+ Programme._  
 
-Got an idea or a query?
-- **Email**: app.educado@gmail.com
-- **Discord**: [Join our Discord server](https://discord.gg/NGZvB5maUA) and dive into the conversation.
-
----
-
-## Spread the Knowledge
-
-All our endeavors are open-source, designed with dedication and a vision for impact. We invite you to utilize, modify, and share our tools, multiplying the benefits for learners and educators globally.
-
----
-
-_Educado: Redefining education, one initiative at a time._
+--
