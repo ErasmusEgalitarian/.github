@@ -12,6 +12,8 @@ Our mission is to develop **engineering and technological solutions** that drive
 
 ## 🌱 Our Projects  
 
+[Documentações](https://erasmusegalitarian.github.io/egp-docs/)
+
 ### **Educado: Empowering Waste Pickers through Education**  
 An Android mobile app designed for waste pickers, offering tailored educational content on finances, health, machinery operations, hygiene, and more. Aiming to enhance learning opportunities and align with **SDG 4: Quality Education**.  
 
